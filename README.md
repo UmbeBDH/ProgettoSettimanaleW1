@@ -1,0 +1,2 @@
+# ProgettoSettimanaleW1
+primoProgetto
